@@ -1,6 +1,6 @@
 # DM-UY 1123 Visual Foundation Studio
 
-![NYU](C:/Users/Jesse%20Seegers/Desktop/NYU%20VFS/DM-1123-A-VFS-FA18-SEEGERS/nyu_soe_logo.png)
+![NYU](../nyu_soe_logo.png)
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
@@ -34,7 +34,7 @@ Prerequisites: None
 **Week 1:** Introductions, Course Overview, Gestalt
     - **Sept 4**  
       - Course and Student Introductions, Overview of Course
-      - [First Day Exercise](Exercises/01 - First Day Exercise.md)  
+      - [First Day Exercise](../Exercises/01 - First Day Exercise.md)  
     - **Sept 6**  
       - Gestalt Lecture
       - Adobe Illustrator Introduction
