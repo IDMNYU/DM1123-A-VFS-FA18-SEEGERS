@@ -102,9 +102,9 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ##### Quantitative Grading Overview
 
 - 15% attendance
-- 15% [Project 1: logo (midterm)](projects/01 - Logo Project.md)
-- 15% [Project 2: interface](projects/02 - Physical Application.md)
-- 15% [Project 3: physical application (final)](projects/03 - Interface Project.md)
+- 15% [Project 1: logo (midterm)](/Projects/01 - Logo Project.md)
+- 15% [Project 2: interface](/Projects/02 - Physical Application.md)
+- 15% [Project 3: physical application (final)](/Projects/03 - Interface Project.md)
 - 12% class exercises 
 - 10% class participation
 - 5% end of semester portfolio PDF (or book for extra credit)
@@ -113,7 +113,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 - 2% [reading responses](projects/Reading Responses.md)
 - 2% [tickets to leave](projects/Tickets to Leave.md)
 - 2% [midterm (final logo) self assessment](projects/Self Assessments.md)
-- 2% [final (physical application) self assessment and letter to next cohort](projects/Self Assessments.md)
+- 2% [final (physical application) self assessment and letter to next cohort](../projects/Self Assessments.md)
 
 
 ##### Qualitative Grading Overview
