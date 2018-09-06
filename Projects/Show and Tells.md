@@ -20,6 +20,29 @@ Tuesdays & Thursdays • 10:30-12:20PM • 2MTC MAGNET 824 • 3 credit hrs
 * Each team member should bring in at least 6 or more digital examples of the work of your chosen artist, designer, or collective for a total of at least 12 images.
 * Be familiar with a brief bio (or overview) and be prepared to CRITICALLY discuss your assigned artist, designer, or collective and their supporting work in an engaging presentation in front of the class. 
 
+**Show and Tell Partners and Presentation Dates:**
+
+**Tuesday, Sept 11 (next class):**
+- Felicity Ng & Shahriar Sadi - Paula Scher
+- Max Kho & Kathy Ching - Muriel Cooper
+
+**Thursday, Sept 13:**  
+- Phoebe Yin & Vivian Li - Josef Muller-Brockman
+- Jessica Song & Linda Kamau - Sophie Tauber-Arp
+
+**Tuesday, Sept 18:**
+- Alex Wing & Max Knott - Barbara Krueger
+- Fiorabella Cogley & Joann Pilika - Alexander Rodchenko
+
+**Thursday, Sept 20:**  
+- Junjie Ge & Pamela Pan - Chipp Kidd
+- Melissa Canavan & Morgan Kuin - David Carson  
+- Tracy Ma - Andy Warhol  
+
+**Tuesday, Sept 25:**  
+- Jason Lee & Jimmy Lauchoy - Shepard Fairey    
+- Joel Urena & Wilfredo Cueto - Tibor Kalman  
+
 **Artists, Designers & Collectives:**
 
 * Peter Saville (music / punk aesthetic)
@@ -37,27 +60,6 @@ Tuesdays & Thursdays • 10:30-12:20PM • 2MTC MAGNET 824 • 3 credit hrs
 * Saul Bass (for logos, not film titles)
 * Sophie Tauber-Arp (composition, textiles, interiors)
 
-
-Tuesday, Sept 11:
-- Felicity Ng & Sahriar Sadi - Paula Scher
-- Max Kho & Kathy Ching - Muriel Cooper
-
-Thursday, Sept 13:  
-- Phoebe Yin & Vivian Li - Josef Muller-Brockman
-- Jessica Song & Linda Kamau - Sophie Tauber-Arp
-
-Tuesday, Sept 18:
-- Alex Wing & Max Knott - Barbara Krueger
-- Fiorabella Cogley & Joann Pilika - Alexander Rodchenko
-
-Thursday, Sept 20:  
-- Junjie Ge & Pamela Pan - Chipp Kidd
-- Joel Urena & Wilfredo Cueto - Tibor Kalman  
-- Tracy Ma - Andy Warhol  
-
-Tuesday, Sept 25:  
-- Jason Lee & Jimmy Lauchoy - Shepard Fairey    
-- Melissa Canavan & Morgan Kuin - David Carson
 
 
 #### LOGO SHOW & TELLS
