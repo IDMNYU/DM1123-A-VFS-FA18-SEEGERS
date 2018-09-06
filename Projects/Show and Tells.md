@@ -38,6 +38,27 @@ Tuesdays & Thursdays • 10:30-12:20PM • 2MTC MAGNET 824 • 3 credit hrs
 * Sophie Tauber-Arp (composition, textiles, interiors)
 
 
+Tuesday, Sept 11:
+- Felicity Ng & Sahriar Sadi - Paula Scher
+- Max Kho & Kathy Ching - Muriel Cooper
+
+Thursday, Sept 13:  
+- Phoebe Yin & Vivian Li - Josef Muller-Brockman
+- Jessica Song & Linda Kamau - Sophie Tauber-Arp
+
+Tuesday, Sept 18:
+- Alex Wing & Max Knott - Barbara Krueger
+- Fiorabella Cogley & Joann Pilika - Alexander Rodchenko
+
+Thursday, Sept 20:  
+- Junjie Ge & Pamela Pan - Chipp Kidd
+- Joel Urena & Wilfredo Cueto - Tibor Kalman  
+- Tracy Ma - Andy Warhol  
+
+Tuesday, Sept 25:  
+- Jason Lee & Jimmy Lauchoy - Shepard Fairey    
+- Melissa Canavan & Morgan Kuin - David Carson
+
 
 #### LOGO SHOW & TELLS
 
