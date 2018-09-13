@@ -11,8 +11,12 @@ Tuesdays & Thursdays • 10:30-12:20PM • 2MTC MAGNET 824 • 3 credit hrs
 
 ### Class Exercise: Image Trace
 
-**Post to the #exercise-imgtrace
+**Post to the #exercise-image-trace**
 
-- Using the given reference image, use Illustrator to create a vector artwork interpretation using ONLY strokes
+Choose a crop from Hieronymous Bosch's Garden of Earthly Delights, here: https://tuinderlusten-jheronimusbosch.ntr.nl/en
+
+- Use Illustrator to create a vector artwork interpretation using ONLY strokes
 - Use the auto-trace function in Illustrator to create a vector version of the image using strokes AND fills
-- Select a source image of your own choosing, and use Illustrator to create a vector artwork interpretation using strokes and fills as you feel appropriate
+- Use Illustrator to create a vector artwork interpretation using strokes and fills as you feel appropriate
+
+Save those 3 separate images as 3 pages of a multi-page PDF, via a multi-artboard Illustrator file
