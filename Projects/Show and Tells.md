@@ -73,15 +73,14 @@ Tuesdays & Thursdays • 10:30-12:20PM • 2MTC MAGNET 824 • 3 credit hrs
 - Decide whether or not you want to mirror your screen for your presentation or not (if you're using presentation tools)
   - Get familiar with your display preferences
   - If you have sound during your presentation, set your external sound preferences in system preferences to **Crestron**
-  
-Brands:
-- Apple
-- Google
-- IBM
-- Pepsi
-- Firefox
-- MTV
-- Lego
-- Microsoft
-- AT&T
-- Ford
+
+**Partners and Brands**
+- Melissa & Joann - Pepsi
+- Kathy & Fiorabella - Google
+- Junjie & Joel - Apple
+- Linda & Jessica - Microsoft
+- Max Kho & Felicity - Lego
+- Max Knott & Alex - Ford
+- Morgan & Tracy - IBM
+- Jason & Shahriar - AT&T
+- Vivian & Phoebe - MTV
