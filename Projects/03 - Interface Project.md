@@ -11,7 +11,7 @@ Using InDesign, you will design a mobile interface (app) for a time app. This co
 
 
 
-####Preliminary Research
+#### Preliminary Research
 
 Put together an Are.na channel of visual references that relate to both the *visual and technical* components of your time interface
 
@@ -30,7 +30,40 @@ Post to the #exercise-interface Slack channel in grayscale (includes black and w
 * Refine design based on feedback from your classmates and the professor as discussed in group critiques and one-on-one desk crits.
 
 
+Here are the due dates for the Time Interface project:
 
+- Group A 1st Draft (digital pin-up): Thursday, November 15
+- Group B 1st Draft (digital pin-up): Tuesday, November 20
+
+- Group A 2nd Draft (one-on-one desk crits): Tuesday, November 27
+- Group B 2nd Draft (one-on-one desk crits): Tuesday, December 4
+
+- Group A final Draft: Thursday, December 6
+- Group B final Draft: Tuesday, December 11
+
+Groups A and B are:
+
+Group A:
+- Melissa
+- Junjie
+- Linda
+- Morgan
+- Tracy
+- Jessica
+- Joel
+- Alex
+- Phoebe
+
+Group B:
+- Kathy
+- Fiorabella
+- Max Kho
+- Max Knott
+- Jason
+- Vivian
+- Felicity
+- Joann
+- Shahriar
 
 
 References:
