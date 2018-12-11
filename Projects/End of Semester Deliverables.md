@@ -55,6 +55,8 @@ Make sure that any type in illustrator has been converted to outlines or include
 
 Make sure that images are included if they are not embedded within illustrator.
 
+**To do this, use the PACKAGE (File->Package) command in InDesign. See the video tutorial here: https://helpx.adobe.com/indesign/how-to/indesign-package-files-for-handoff.html**
+
 
 #### Letter to Next Cohort
 
